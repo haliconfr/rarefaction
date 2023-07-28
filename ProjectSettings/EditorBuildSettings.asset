@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/InitialiserSplash.unity
+    guid: 6360e5f387c340d4bb633143896a5fc7
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 284d34dda9f71a642b24645d64322afd
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/OpeningCutscene.unity
+    guid: 393fe5b48bae53e45ae2d0347d045360
+  - enabled: 1
+    path: Assets/Scenes/Opening.unity
+    guid: c70e838d97ccf7c4f8c8798876e174e8
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 1b96f6b3a1738864b98733a9f39cc477
+  - enabled: 1
+    path: Assets/Scenes/Hospital Rooms/Lobby.unity
+    guid: 80ccdb922f607ba4da6f9cdd0ece4dd5
+  - enabled: 1
+    path: Assets/Scenes/Hospital Rooms/Room Empty.unity
+    guid: 5a19552e6e270374a918376a647f8c6b
+  - enabled: 1
+    path: Assets/Scenes/Hospital Rooms/Room.unity
+    guid: 933738602027ba44ca430073b30e62ca
+  - enabled: 1
+    path: Assets/Scenes/Hospital Rooms/Piston.unity
+    guid: 8e4b6970b0dcca14687d8ffd70208b88
+  - enabled: 1
+    path: Assets/Scenes/Hospital Rooms/Generator.unity
+    guid: f23ca629e5e72d343a3758f9fd5e35ef
+  - enabled: 1
+    path: Assets/Scenes/Hospital Rooms/GeneratorNoLight.unity
+    guid: 4459003334ded854daf00ad814966e98
+  - enabled: 1
+    path: Assets/Scenes/Hospital Rooms/LobbyNoLight.unity
+    guid: 625b14ed4bdaa054892cd9c16b176bf7
+  - enabled: 1
+    path: Assets/Scenes/Hospital Rooms/PistonNoLight.unity
+    guid: a7cea577b7022084c93546934ea6d157
+  - enabled: 1
+    path: Assets/Scenes/Hospital Rooms/RoomNoLight.unity
+    guid: 490b836aed9f7ca4fb7bc46516f1b853
+  - enabled: 1
+    path: Assets/Scenes/Harbour/Harbour.unity
+    guid: 91ef3ec1b149d16449b494dbb6f92a08
+  - enabled: 1
+    path: Assets/Scenes/Harbour/HutInterior.unity
+    guid: c79cc0a8269e6004a9679a18b50fbb2b
+  - enabled: 1
+    path: Assets/Scenes/Harbour/HiveRoom.unity
+    guid: d05a12d4eb501804abd7293f5a4efdb3
+  - enabled: 1
+    path: Assets/Scenes/Harbour/HiveRoom2.unity
+    guid: 0fbd8a6fa344c1c42aafdfa5b014dc51
+  - enabled: 1
+    path: Assets/Scenes/Death.unity
+    guid: 9c5624369b877ce47b6c3696c3cb7ac8
+  - enabled: 1
+    path: Assets/Scenes/Harbour/MansionExterior.unity
+    guid: f591684fbef676f499b40f21d763675f
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 9cf95226dd5a55641a9f688f13f82af4
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7,
+      type: 2}
