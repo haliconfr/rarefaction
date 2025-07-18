@@ -1,8 +1,7 @@
 # rarefaction
 ps2-era horror game I never ended up finishing
 
-![saveroom-qepfnzap](https://github.com/maxtearney/rarefaction/assets/88261993/f409e8b3-38ff-455c-8de4-3db0398b1263)
-
+https://github.com/user-attachments/assets/052845c2-a7f5-4e27-aa27-8625ce70da07
 
 has full soundtrack, sound effects, movement mechanics and story.
 images, trailers and information on the game can be found here-
